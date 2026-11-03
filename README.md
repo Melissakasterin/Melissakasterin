@@ -8,6 +8,7 @@ Hi! I'm a Data and Information Science student at TH Köln, interested in Data S
 - 🐍 Learning Python and SQL
 - 📊 Currently learning about Data Mining and data analysis
 - 🤖 Interested in AI and open-source technologies
+- 🎵 Interested in analyzing concert ticket prices, music-related data, and media attention
 
 ## Interests
 
