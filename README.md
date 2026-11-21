@@ -44,4 +44,4 @@ in Google BigQuery.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/melissa-kasterin-aa24713ba/) · 📍 Cologne/Düsseldorf area, Germany
+[LinkedIn](https://www.linkedin.com/in/melissa-kasterin/) · 📍 Cologne/Düsseldorf area, Germany
